@@ -1,10 +1,10 @@
-#Project 3: Space SHMUP Game (3D Version)
+# Project 3: Space SHMUP Game (3D Version)
 
-##Overview
+## Overview
 
 This project is a Unity-based 3D shooter game called Space SHMUP, inspired by the tutorial from Bond's Chapter 31 and enhanced using Chapter 32. Players control a spaceship to shoot and evade enemies, all while experiencing an immersive scrolling starfield background. The game was developed individually by Tavleen Kaur and aims to provide an engaging shoot-'em-up experience.
 
-##Features Implemented
+## Features Implemented
 
 Player Movement: The player can move the spaceship using keyboard inputs.
 
@@ -18,7 +18,7 @@ Power-Ups: Collectible items that enhance player abilities, such as shields or i
 
 Sound Effects: Shooting and explosion sounds for a more immersive experience. (extra feature)
 
-##How to Play
+## How to Play
 
 Use the arrow keys to move the spaceship.
 
@@ -28,7 +28,7 @@ Avoid collisions with enemies and their projectiles to maintain health.
 
 Collect power-ups to gain advantages like improved weapons or shields.
 
-##Installation and Setup
+## Installation and Setup
 
 Clone the repository from GitHub.
 
@@ -36,13 +36,13 @@ Open the project in Unity (version 2021 or later is recommended).
 
 Run the game by pressing the Play button in Unity.
 
-##Known Issues
+## Known Issues
 
 Occasionally, enemies may overlap due to random spawning positions.
 
 Player power-up effects are temporary and reset upon death without a visual indicator.
 
-##Future Improvements
+## Future Improvements
 
 Add Boss Battles: Introduce boss enemies for more challenging gameplay.
 
@@ -50,7 +50,7 @@ Increase Enemy Variety: Add different enemy types with unique behaviors.
 
 Level System: Create multiple levels with varying difficulties.
 
-##Author
+## Author
 
 This project was completed by Tavleen Kaur.
 
